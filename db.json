@@ -1,0 +1,105 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Raghav",
+      "email": "raghav@gmail.com",
+      "password": "123456",
+      "phone": "7878454578",
+      "address": "Banglore"
+    },
+    {
+      "name": "jai dixit",
+      "email": "jai@gmail.com",
+      "password": "12345",
+      "confirm_password": "12345",
+      "phone": "7878741000",
+      "role": "Customer",
+      "address": "sdgfsdfsd",
+      "id": 2
+    },
+    {
+      "name": "shalini",
+      "email": "shalini@gmail.com",
+      "password": "123",
+      "confirm_password": "234",
+      "phone": "5454747474",
+      "role": "Customer",
+      "address": "Tirupati",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "harsh@gmail.com",
+      "password": "qwer",
+      "confirm_password": "qwer",
+      "phone": "7878741000",
+      "role": "Customer",
+      "address": "sdfs",
+      "id": 6
+    },
+    {
+      "name": "Ranjit",
+      "email": "harsh1@gmail.com",
+      "password": "111",
+      "confirm_password": "111",
+      "phone": "7878741000",
+      "role": "Customer",
+      "address": "qsasda",
+      "id": 7
+    },
+    {
+      "name": "jai dixit",
+      "email": "asdad@gmail.com",
+      "password": "111",
+      "confirm_password": "111",
+      "phone": "7878454512",
+      "address": "adsaas",
+      "id": 8
+    },
+    {
+      "name": "shalini",
+      "email": "shalini@gmail.com",
+      "password": "111",
+      "confirm_password": "111",
+      "phone": "7687755552",
+      "role": "",
+      "address": "gjkgjkhklhjk",
+      "id": 9
+    }
+  ],
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Raghav",
+      "email": "raghav@gmail.com",
+      "password": "123456",
+      "phone": "7878454578",
+      "address": "Banglore",
+      "service_type": "Photographer"
+    },
+    {
+      "name": "shalini",
+      "email": "shalini111@gmail.com",
+      "password": "111",
+      "confirm_password": "111",
+      "phone": "8877440000",
+      "address": "Hyderabad",
+      "service_type": "Wedding Planner",
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "name": "Raghav",
+      "email": "raghav@gmail.com",
+      "phone": "7878450011",
+      "address": "Banglore",
+      "title": "title",
+      "price": "65000",
+      "event_date": "2023-02-02",
+      "created_at": "12/26/2022"
+    }
+  ]
+}
